@@ -1,19 +1,14 @@
-## 💫 About Me:
+### 💫 About Me:
 🔭 I’m currently working on MERN stack <br>
 🌱 I’m currently learning Flutter and Firebase<br>
 👯 I’m looking to collaborate on open source contributions<br>
 📫 How to reach me: Mail me at harimuthu.sm@gmail.com<br>
 😄 Pronouns: he/him
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harimuthum&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-muthu) 
-
-
-
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -32,5 +27,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
+#### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-muthu) 
+[![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/harimuthum)
 
