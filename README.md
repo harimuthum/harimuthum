@@ -1,6 +1,6 @@
 #### Hi there 👋, my name is Hari Muthu
 🔭 My interest lies in Backend Engineering and Devops <br>
-🌱 I always learning to write a better code than berfore<br>
+🌱 I always learning to write a better code than before <br>
 👯 I’m looking to collaborate on open source contribution<br>
 📫 How to reach me: Mail me at harimuthu.sm@gmail.com<br>
 😄 Pronouns: he/him
